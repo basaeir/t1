@@ -6,11 +6,23 @@ ujn
 v]
 j
 h
-<<<<<<< HEAD
+
 
 my file
 =======
 my work
 
 my work
->>>>>>> 511e2ba4678c87b60643a5b3f3fb0bba72758612
+
+=======
+my work
+
+my work
+=======
+my work
+
+my work
+=======
+my work
+
+my work
